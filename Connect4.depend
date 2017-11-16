@@ -1,0 +1,210 @@
+# depslib dependency file v1.0
+1415315547 source:c:\users\aarónferr\desktop\universidad\fdtos. programacion\programas\connect4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	<ctype.h>
+	"header_Connect4.h"
+
+1415230813 c:\users\aarónferr\desktop\universidad\fdtos. programacion\programas\connect4\header_connect4.h
+
+1415315533 source:c:\users\aarónferr\desktop\universidad\fdtos. programacion\programas\connect4\functions_connect4.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	<ctype.h>
+	"header_Connect4.h"
+
+1415817242 source:g:\connect4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	"header_Connect4.h"
+
+1415817174 g:\connect4\header_connect4.h
+
+1415817210 source:g:\connect4\functions_connect4.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	"header_Connect4.h"
+
+1416005586 source:c:\users\luis\desktop\connect4\functions_connect4.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	"header_Connect4.h"
+
+1416005566 c:\users\luis\desktop\connect4\header_connect4.h
+
+1416005566 source:c:\users\luis\desktop\connect4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	"header_Connect4.h"
+
+1416164428 source:c:\users\luis\desktop\nueva carpeta\+función horizontal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	"header_Connect4.h"
+
+1415973452 c:\users\luis\desktop\nueva carpeta\+función horizontal\header_connect4.h
+
+1416164073 source:c:\users\luis\desktop\nueva carpeta\+función horizontal\functions_connect4.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	"header_Connect4.h"
+
+1416167049 source:c:\users\luis\desktop\nueva carpeta\+función diagonal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	"header_Connect4.h"
+
+1416165017 c:\users\luis\desktop\nueva carpeta\+función diagonal\header_connect4.h
+
+1416166644 source:c:\users\luis\desktop\nueva carpeta\+función diagonal\functions_connect4.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	"header_Connect4.h"
+
+1416176719 source:c:\users\luis\desktop\nueva carpeta\simplificado\functions_connect4.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	"header_Connect4.h"
+
+1416174127 c:\users\luis\desktop\nueva carpeta\simplificado\header_connect4.h
+
+1416174220 source:c:\users\luis\desktop\nueva carpeta\simplificado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	"header_Connect4.h"
+
+1416356006 source:d:\simplificado\functions_connect4.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	"header_Connect4.h"
+
+1416349158 d:\simplificado\header_connect4.h
+
+1416355978 source:d:\simplificado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	"header_Connect4.h"
+	<time.h>
+
+1416227916 source:h:\simplificado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	"header_Connect4.h"
+
+1416227292 h:\simplificado\header_connect4.h
+
+1416227292 source:h:\simplificado\functions_connect4.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	"header_Connect4.h"
+
+1416243176 source:g:\simplificado\functions_connect4.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	"header_Connect4.h"
+
+1416227292 g:\simplificado\header_connect4.h
+
+1416239958 source:g:\simplificado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	"header_Connect4.h"
+
+1416386415 source:c:\users\luis\desktop\simplificado\functions_connect4.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	"header_Connect4.h"
+
+1416385875 c:\users\luis\desktop\simplificado\header_connect4.h
+
+1416386488 source:c:\users\luis\desktop\simplificado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	"header_Connect4.h"
+	<time.h>
+
+1416390904 source:c:\users\luis\desktop\un poco más inteligente\main.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	"header_Connect4.h"
+	<time.h>
+
+1416393330 c:\users\luis\desktop\un poco más inteligente\header_connect4.h
+
+1416393246 source:c:\users\luis\desktop\un poco más inteligente\functions_connect4.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	"header_Connect4.h"
+
+1416433452 source:d:\un poco más inteligente\main.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	"header_Connect4.h"
+	<time.h>
+
+1416393332 d:\un poco más inteligente\header_connect4.h
+
+1416433544 source:d:\un poco más inteligente\functions_connect4.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	"header_Connect4.h"
+	<time.h>
+	<windows.h>
+
+1416421716 source:g:\un poco más inteligente\functions_connect4.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	"header_Connect4.h"
+
+1416393332 g:\un poco más inteligente\header_connect4.h
+
+1416419344 source:g:\un poco más inteligente\main.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	"header_Connect4.h"
+	<time.h>
+
+1416401796 source:c:\users\b.lga\desktop\un poco más inteligente\functions_connect4.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	"header_Connect4.h"
+	<time.h>
+	<windows.h>
+
+1416401798 c:\users\b.lga\desktop\un poco más inteligente\header_connect4.h
+
+1416401800 source:c:\users\b.lga\desktop\un poco más inteligente\main.c
+	<stdio.h>
+	<stdlib.h>
+	<process.h>
+	"header_Connect4.h"
+	<time.h>
+	<windows.h>
+
